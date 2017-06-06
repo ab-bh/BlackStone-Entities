@@ -1,2 +1,2 @@
-# BlacStone-Entities
+# BlackStone-Entities
 Analysis of firms datasets from online resources for potential blackstone company entities.
